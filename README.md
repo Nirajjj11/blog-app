@@ -803,6 +803,6 @@ Feel free to reach out for collaborations, questions, or just to say hello!
 
 **[⬆ back to top](#-django-blog-application)**
 
-Made with ❤️ by [Niraj Kumar](https://github.com/nirajkumar)
+Made with ❤️ by [Niraj Kumar](https://github.com/Nirajjj11)
 
 </div>
