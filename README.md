@@ -685,7 +685,7 @@ Fixes #123
 
 - **Issues**: Open an issue on GitHub for bug reports
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: niraj.kumar@example.com
+- **Email**:  bcabncnirajkumar2020@gmail.com
 - **Documentation**: Check the [Wiki](https://github.com/yourusername/django-blog/wiki)
 
 ### Report a Bug
@@ -722,7 +722,7 @@ With conditions:
 
 **Niraj Kumar**
 
-- GitHub: [@nirajkumar]([https://github.com/nirajkumar](https://github.com/Nirajjj11))
+- GitHub: [@nirajkumar](https://github.com/Nirajjj11)
 - Email: bcabncnirajkumar2020@gmail.com
 - LinkedIn: [/in/nirajkumar](https://www.linkedin.com/in/niraj-kumar09160/)
 
