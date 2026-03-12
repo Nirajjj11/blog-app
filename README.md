@@ -724,8 +724,7 @@ With conditions:
 
 - GitHub: [@nirajkumar]([https://github.com/nirajkumar](https://github.com/Nirajjj11))
 - Email: niraj.kumar@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [/in/nirajkumar](https://linkedin.com/in/nirajkumar)
+- LinkedIn: [/in/nirajkumar]([https://linkedin.com/in/nirajkumar](https://www.linkedin.com/in/niraj-kumar09160/))
 
 ### About
 
