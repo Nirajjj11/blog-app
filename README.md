@@ -723,8 +723,8 @@ With conditions:
 **Niraj Kumar**
 
 - GitHub: [@nirajkumar]([https://github.com/nirajkumar](https://github.com/Nirajjj11))
-- Email: niraj.kumar@example.com
-- LinkedIn: [/in/nirajkumar]([https://linkedin.com/in/nirajkumar](https://www.linkedin.com/in/niraj-kumar09160/))
+- Email: bcabncnirajkumar2020@gmail.com
+- LinkedIn: [/in/nirajkumar](https://www.linkedin.com/in/niraj-kumar09160/)
 
 ### About
 
